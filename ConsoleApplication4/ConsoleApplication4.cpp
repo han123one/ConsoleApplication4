@@ -8,6 +8,7 @@ using namespace std;
 
 
 
+
 void test01()
 {
 	Person <string, int>p("12", 88);
