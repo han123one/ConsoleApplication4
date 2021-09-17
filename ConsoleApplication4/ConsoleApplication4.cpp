@@ -1,10 +1,11 @@
-// ConsoleApplication4.cpp : ¶¨Òå¿ØÖÆÌ¨Ó¦ÓÃ³ÌĞòµÄÈë¿Úµã¡£
+ï»¿// ConsoleApplication4.cpp : å®šä¹‰æ§åˆ¶å°åº”ç”¨ç¨‹åºçš„å…¥å£ç‚¹ã€‚
 //
 
 #include "stdafx.h"
 #include "person.hpp"
 #include <iostream>
 using namespace std;
+
 
 
 void test01()
